@@ -141,7 +141,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: "Roboto", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -1330,7 +1330,6 @@ input, select, textarea {
 				}
 
 			#header .content p {
-				text-transform: uppercase;
 				letter-spacing: 0.2rem;
 				font-size: 1rem;
 				line-height: 2;
