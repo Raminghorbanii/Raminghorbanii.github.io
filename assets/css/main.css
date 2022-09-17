@@ -1291,12 +1291,12 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 10rem;
-			height: 10rem;
+			width: 18rem;
+			height: 18rem;
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
-			padding-top: 0.5%;
+			padding-top: 0.0%;
 		}
 
 			#header .logo .icon:before {
@@ -1624,7 +1624,7 @@ input, select, textarea {
 		
 		.ProfilePic{
 		border-radius: 50%;
-        width: 94%;
+        width: 100%;
         
 		}
 
